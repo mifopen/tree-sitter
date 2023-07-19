@@ -1,0 +1,5 @@
+.{
+    .name = "tree-sitter",
+    .version = "0.20.8",
+    .dependencies = .{},
+}
